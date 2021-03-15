@@ -1,0 +1,15 @@
+{
+  "name": "simple-queue-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Rahman <mail@aditaja.my.id>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "uuid": "^8.3.2"
+  }
+}
